@@ -15,5 +15,5 @@ En estaseccion se encontraran los fundamentos del proyecto.
 |----------|--------|---|-------------|
 |Jonathan Emmanuel López Morales|[@Jonathan2536](https://github.com/Jonathan2536)|Lider de Documentacion|Revisado y Aprobado ✅|
 |Adrian Perez Jimenes|[@heidrihen52](https://github.com/heidrihen52)|FrontEnd|El diseño es bueno 😊|
-|Edwin Hernandez Campos|[@Edwincamp](https://github.com/Edwincamp)|BackEnd|Hay errores en el codigo 🔴|
+|Dulce Yarida Salvador Antonio|[@Dul220509](https://github.com/Dul220509)|BackEnd|Hay errores en el codigo 🔴|
 
